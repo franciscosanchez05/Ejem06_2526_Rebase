@@ -10,4 +10,5 @@ Cuarta modificación
 Quinta modificación
 Sexta modificación
 >>>>>>> 9db1561 (Sexta modificación)
-Septima pero desde github
+Septima pero desde GitHub
+FINALIZACION del proyecto
