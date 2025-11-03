@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Primera modificación
+Segunda modificación
+Tercera modificación
+>>>>>>> a860bb2 (Tercera modificación)
