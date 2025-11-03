@@ -4,3 +4,9 @@ Primera modificación
 Segunda modificación
 Tercera modificación
 >>>>>>> a860bb2 (Tercera modificación)
+<<<<<<< HEAD
+=======
+Cuarta modificación
+Quinta modificación
+Sexta modificación
+>>>>>>> 9db1561 (Sexta modificación)
